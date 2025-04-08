@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/674621/205549639-09cd137c-5e3c-4e0b-a71c-77fbd5a0d1f2.png" alt="Sri Lakshmi Durga Gundabatthula - Health Informatics" width="100%">
+</p>
 
 <h1 align="center">👩‍⚕️ Sri Lakshmi Durga Gundabatthula</h1>
-<h3 align="center">Health Informatics | AI in Healthcare | Clinical Pharmacist</h3>
+<h3 align="center">🔍 Health Informatics | 💡 AI in Healthcare | 💊 Clinical Pharmacist</h3>
 
 <p align="center">
   <a href="mailto:sgundaba@gmu.edu"><img src="https://img.shields.io/badge/Email-sgundaba@gmu.edu-blue?style=flat&logo=gmail"></a>
@@ -10,45 +13,66 @@
 
 ---
 
-🔍 I’m a graduate student in **Health Informatics** at **George Mason University**, blending a Doctor of Pharmacy background with advanced analytics to drive intelligent, patient-centric healthcare systems.
-
-My focus lies in using **machine learning**, **predictive modeling**, and **EHR integration** to build tools that enable better clinical decision-making, improve patient outcomes, and streamline digital health workflows.
+🎓 **Graduate Student in Health Informatics** at *George Mason University* (Expected: May 2025)  
+💊 **Doctor of Pharmacy**, India  
+📍 Based in Fairfax, VA | Focused on improving patient outcomes through data science & AI.
 
 ---
 
 ## 🧠 Expertise Snapshot
 
-- **Languages/Tools:** Python, R, SQL, MATLAB, Tableau, Jupyter
-- **Healthcare Knowledge:** EHR Systems, Pharmacovigilance, Therapeutic Drug Monitoring
-- **Frameworks & Standards:** HL7, FHIR, SNOMED CT, LOINC
-- **Techniques:** Predictive Modeling, Regression, Data Mining, Radiology Informatics
-- **Soft Skills:** Interprofessional Collaboration, Clinical Communication, Patient Education
+**Languages & Tools**  
+`Python` • `R` • `SQL` • `MATLAB` • `Tableau` • `Jupyter` • `Power BI`
+
+**Healthcare Standards**  
+`HL7` • `FHIR` • `SNOMED CT` • `LOINC` • `EHR Systems`
+
+**Strength Areas**  
+- Predictive Modeling & Machine Learning  
+- Clinical Decision Support Systems  
+- Radiology Informatics  
+- Therapeutic Drug Monitoring  
+- Pharmacovigilance & Drug Utilization Reviews
 
 ---
 
 ## 🚀 Projects
 
-### 🔮 Predictive Modeling of Antidepressant Response  
-*George Mason University | Machine Learning, All of Us Research Database*  
-Designed LASSO and logistic regression models to identify key predictors of antidepressant efficacy across populations. Results aim to support more personalized mental health treatment.
+<details>
+<summary><strong>🔮 Predictive Modeling of Antidepressant Response</strong></summary>
+<br>
+Developed LASSO and logistic regression models using All of Us research data to identify features that predict antidepressant efficacy across diverse populations.
+</details>
 
-### 🤖 AI Advice Tool for Antidepressant Optimization  
-Developed an AI-driven tool that recommends antidepressants using simulated clinical data. Focused on incorporating advanced regression for personalized treatment.
+<details>
+<summary><strong>🤖 AI Advice Tool for Mental Health</strong></summary>
+<br>
+Built an AI-driven recommender system using simulated clinical data to offer personalized antidepressant suggestions using regression modeling techniques.
+</details>
 
-### 🦠 COVID-19 Remdesivir Evaluation  
-Led a clinical study at a multispecialty hospital evaluating the effectiveness of Remdesivir. Produced real-world insights into usage patterns and patient response.
+<details>
+<summary><strong>🦠 Remdesivir Effectiveness Study (COVID-19)</strong></summary>
+<br>
+Led a prospective clinical study evaluating Remdesivir’s real-world effectiveness and trends in patient recovery across multi-specialty care.
+</details>
 
 ---
 
 ## 🏥 Professional Experience
 
 **Practicum Intern** – *The Resource Key (Remote, 2025)*  
-- Built predictive models to assess post-discharge disability using Social Determinants of Health (SDOH).  
-- Assisted integration with Electronic Health Records and accessibility features.
+- Collaborating on a project to develop an AI-powered system to predict patient 
+functional disability at 3- and 6-months post-discharge. 
+- Designing and refining AI models to incorporate Social Determinants of Health 
+(SDOH) data and manage real-time accessibility supports. 
+- Supporting the development of a user-friendly interface to enable seamless 
+interaction with predictive insights.
 
 **Clinical Pharmacist Intern** – *Malla Reddy Narayana Hospital (India)*  
 - Reduced prescription errors through in-depth drug utilization reviews.  
 - Conducted patient education and therapy management across various specialties.
+- Conducted detailed drug utilization reviews, reducing prescription errors by assessing drug 
+interactions and accuracy 
 
 ---
 
