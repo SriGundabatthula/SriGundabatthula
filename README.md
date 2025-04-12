@@ -1,19 +1,14 @@
 
 
-<h1 align="center">Sri Lakshmi Durga Gundabatthula</h1>
-<h3 align="center">Health Informatics | AI in Healthcare | Clinical Pharmacist</h3>
+<h1 align="center">👋 Hi, I’m Sri Lakshmi Durga Gundabatthula</h1>
+<h3 align="center">Health Informatics | Clinical Pharmacist | Pharm D</h3>
 
-<p align="center">
-  <a href="mailto:sgundaba@gmu.edu"><img src="https://img.shields.io/badge/Email-sgundaba@gmu.edu-blue?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sri-lakshmi-durga-gundabatthula-713255289"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://bold.pro/my/srilakshmidurga-gundabatthula-241017115014/624r"><img src="https://img.shields.io/badge/Resume-View-orange?style=flat&logo=read-the-docs"></a>
-</p>
 
 ---
 
-🎓 **Graduate Student in Health Informatics** at *George Mason University* (Expected: May 2025)  
-💊 **Doctor of Pharmacy**, India  
-📍 Based in Fairfax, VA | Focused on improving patient outcomes through data science & AI.
+A Health Informatics graduate student at George Mason University (May 2025) with a background in Clinical Pharmacy. I’m passionate about applying data science, predictive analytics, and MLOps to bridge the gap between domain expertise and technology. My focus is on building scalable, data-driven solutions that deliver meaningful insights, support informed decision-making, and create real-world impact across a variety of fields.
+
+
 
 ---
 
