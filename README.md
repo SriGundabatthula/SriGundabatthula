@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/674621/205549639-09cd137c-5e3c-4e0b-a71c-77fbd5a0d1f2.png" alt="Sri Lakshmi Durga Gundabatthula - Health Informatics" width="100%">
 </p>
 
-<h1 align="center">👩‍⚕️ Sri Lakshmi Durga Gundabatthula</h1>
-<h3 align="center">🔍 Health Informatics | 💡 AI in Healthcare | 💊 Clinical Pharmacist</h3>
+<h1 align="center">Sri Lakshmi Durga Gundabatthula</h1>
+<h3 align="center">Health Informatics | AI in Healthcare | Clinical Pharmacist</h3>
 
 <p align="center">
   <a href="mailto:sgundaba@gmu.edu"><img src="https://img.shields.io/badge/Email-sgundaba@gmu.edu-blue?style=flat&logo=gmail"></a>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Expertise Snapshot
+## Expertise Snapshot
 
 **Languages & Tools**  
 `Python` • `R` • `SQL` • `MATLAB` • `Tableau` • `Jupyter` • `Power BI`
@@ -36,22 +36,22 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <details>
-<summary><strong>🔮 Predictive Modeling of Antidepressant Response</strong></summary>
+<summary><strong> Predictive Modeling of Antidepressant Response</strong></summary>
 <br>
 Developed LASSO and logistic regression models using All of Us research data to identify features that predict antidepressant efficacy across diverse populations.
 </details>
 
 <details>
-<summary><strong>🤖 AI Advice Tool for Mental Health</strong></summary>
+<summary><strong> AI Advice Tool for Mental Health</strong></summary>
 <br>
 Built an AI-driven recommender system using simulated clinical data to offer personalized antidepressant suggestions using regression modeling techniques.
 </details>
 
 <details>
-<summary><strong>🦠 Remdesivir Effectiveness Study (COVID-19)</strong></summary>
+<summary><strong> Remdesivir Effectiveness Study (COVID-19)</strong></summary>
 <br>
 Led a prospective clinical study evaluating Remdesivir’s real-world effectiveness and trends in patient recovery across multi-specialty care.
 </details>
@@ -76,7 +76,7 @@ interactions and accuracy
 
 ---
 
-## 💬 Let's Collaborate
+##  Let's Collaborate
 I'm always open to exciting projects or research collaborations in digital health, AI in medicine, or data analytics. Let's connect!
 
 📫 **sgundaba@gmu.edu**  
