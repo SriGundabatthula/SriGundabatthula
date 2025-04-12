@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hi, I’m Sri Lakshmi Durga Gundabatthula</h1>
-<h3 align="center">Health Informatics | Clinical Pharmacist | Pharm D</h3>
+<h3 align="center">Health Informatics | Health Data Analyst | Clinical Pharmacist | Pharm D</h3>
 
 
 ---
