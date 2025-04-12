@@ -1,12 +1,12 @@
 
 
-<h1 align="center">👋 Hi, I’m Sri Lakshmi Durga Gundabatthula</h1>
+<h1 align="center"> Hi, I’m Sri Lakshmi Durga Gundabatthula</h1>
 <h3 align="center">Health Informatics | Clinical Pharmacist | Pharm D</h3>
 
 
 ---
 
-A Health Informatics graduate student at George Mason University (May 2025) with a background in Clinical Pharmacy. I’m passionate about applying data science, predictive analytics, and MLOps to bridge the gap between domain expertise and technology. My focus is on building scalable, data-driven solutions that deliver meaningful insights, support informed decision-making, and create real-world impact across a variety of fields.
+A Health Informatics graduate student at George Mason University with a background in Clinical Pharmacy. I’m passionate about applying data science, predictive analytics, and MLOps to bridge the gap between domain expertise and technology. My focus is on building scalable, data-driven solutions that deliver meaningful insights, support informed decision-making, and create real-world impact across a variety of fields.
 
 
 
@@ -20,33 +20,36 @@ A Health Informatics graduate student at George Mason University (May 2025) with
 **Healthcare Standards**  
 `HL7` • `FHIR` • `SNOMED CT` • `LOINC` • `EHR Systems`
 
-**Strength Areas**  
-- Predictive Modeling & Machine Learning  
-- Clinical Decision Support Systems  
-- Radiology Informatics  
-- Therapeutic Drug Monitoring  
-- Pharmacovigilance & Drug Utilization Reviews
+**Key Strengths**  
+Predictive Modeling & Machine Learning
+Clinical Decision Support Systems (CDSS)
+EHR Data & Health Analytics
+MLOps & Scalable ML Solutions
+Radiology Informatics
+Therapeutic Drug Monitoring
+Pharmacovigilance & Drug Utilization Reviews
+Interdisciplinary Collaboration
 
 ---
 
 ## Projects
 
 <details>
-<summary><strong> Predictive Modeling of Antidepressant Response</strong></summary>
+<summary><strong> Predictive Modeling of Antidepressant Response Using All Of Us</strong></summary>
 <br>
-Developed LASSO and logistic regression models using All of Us research data to identify features that predict antidepressant efficacy across diverse populations.
+Designed and implemented LASSO and logistic regression models using the All of Us research database to predict antidepressant efficacy across diverse populations. Analyzed patient history and clinical notes to identify key predictors, improving response accuracy and supporting data-driven treatment decisions.
 </details>
 
 <details>
 <summary><strong> AI Advice Tool for Mental Health</strong></summary>
 <br>
-Built an AI-driven recommender system using simulated clinical data to offer personalized antidepressant suggestions using regression modeling techniques.
+Developed an AI-powered recommendation system using simulated clinical data to provide personalized antidepressant suggestions. Applied advanced regression modeling techniques to support more precise, data-driven treatment strategies in mental health care.
 </details>
 
 <details>
 <summary><strong> Remdesivir Effectiveness Study (COVID-19)</strong></summary>
 <br>
-Led a prospective clinical study evaluating Remdesivir’s real-world effectiveness and trends in patient recovery across multi-specialty care.
+Led a prospective clinical study evaluating Remdesivir’s real-world effectiveness and trends in Covid-19 patient recovery across multi-specialty care.
 </details>
 
 ---
@@ -54,14 +57,12 @@ Led a prospective clinical study evaluating Remdesivir’s real-world effectiven
 ## 🏥 Professional Experience
 
 **Practicum Intern** – *The Resource Key (Remote, 2025)*  
-- Collaborating on a project to develop an AI-powered system to predict patient 
-functional disability at 3- and 6-months post-discharge. 
-- Designing and refining AI models to incorporate Social Determinants of Health 
-(SDOH) data and manage real-time accessibility supports. 
-- Supporting the development of a user-friendly interface to enable seamless 
-interaction with predictive insights.
+- Contributing to the development of **Disability Recovery Insights**, a predictive model that classifies patients on functional recovery based on clinical and social indicators.  
+- Integrating Social Determinants of Health (SDOH) to enhance model accuracy and provide more personalized insights.  
+- Development of a web-based health companion that allows patients and caregivers to track recovery progress, receive tailored support, and plan next steps.   
+- Supporting interface design to ensure real-time accessibility features and a user-friendly experience for individuals with disabilities.
 
-**Clinical Pharmacist Intern** – *Malla Reddy Narayana Hospital (India)*  
+**Clinical Pharmacist Intern** – *Malla Reddy Narayana Hospital (India)(07/2022 - 06/2023)*  
 - Reduced prescription errors through in-depth drug utilization reviews.  
 - Conducted patient education and therapy management across various specialties.
 - Conducted detailed drug utilization reviews, reducing prescription errors by assessing drug 
@@ -70,11 +71,15 @@ interactions and accuracy
 ---
 
 ##  Let's Collaborate
-I'm always open to exciting projects or research collaborations in digital health, AI in medicine, or data analytics. Let's connect!
+I'm always eager to explore meaningful projects and research opportunities in digital health, medical AI, and data analytics. If you're working on something impactful — let's connect and create together!
 
-📫 **sgundaba@gmu.edu**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/sri-lakshmi-durga-gundabatthula-713255289)**
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/sri-lakshmi-durga-gundabatthula-713255289" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gdurga762@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 ---
 
-> *"Where healthcare meets data, I build the bridge."*
+> * Merging data science with healthcare to drive smarter outcomes.*
