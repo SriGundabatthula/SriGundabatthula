@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/205549639-09cd137c-5e3c-4e0b-a71c-77fbd5a0d1f2.png" alt="Sri Lakshmi Durga Gundabatthula - Health Informatics" width="100%">
+  <img src="https://user-images.githubusercontent.com/674621/205549639-09cd137c-5e3c-4e0b-a71c-77fbd5a0d1f2.png"  width="100%">
 </p>
 
 <h1 align="center">Sri Lakshmi Durga Gundabatthula</h1>
