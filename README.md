@@ -14,6 +14,26 @@ A Health Informatics graduate student at George Mason University with a backgrou
 
 ## Expertise Snapshot
 
+<h3> Technical Skills</h3>
+<p>
+  <code style="background-color:#f0f0f0; color:#005f73;">Python</code> •
+  <code style="background-color:#f0f0f0; color:#005f73;">R</code> •
+  <code style="background-color:#f0f0f0; color:#005f73;">SQL</code> •
+  <code style="background-color:#f0f0f0; color:#005f73;">MATLAB</code> •
+  <code style="background-color:#f0f0f0; color:#005f73;">Tableau</code> •
+  <code style="background-color:#f0f0f0; color:#005f73;">Jupyter</code> •
+  <code style="background-color:#f0f0f0; color:#005f73;">Power BI</code>
+</p>
+
+<h4> Healthcare Standards</h4>
+<p>
+  <code style="background-color:#f0f0f0; color:#8b0000;">HL7</code> •
+  <code style="background-color:#f0f0f0; color:#8b0000;">FHIR</code> •
+  <code style="background-color:#f0f0f0; color:#8b0000;">SNOMED CT</code> •
+  <code style="background-color:#f0f0f0; color:#8b0000;">LOINC</code> •
+  <code style="background-color:#f0f0f0; color:#8b0000;">EHR Systems</code>
+</p>
+
 **Languages & Tools**  
 `Python` • `R` • `SQL` • `MATLAB` • `Tableau` • `Jupyter` • `Power BI`
 
@@ -83,4 +103,4 @@ I'm always eager to explore meaningful projects and research opportunities in di
 
 ---
 
-> * Merging data science with healthcare to drive smarter outcomes.*
+> * Merging data science with healthcare to drive smarter outcomes. *
