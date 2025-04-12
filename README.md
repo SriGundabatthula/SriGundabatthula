@@ -49,6 +49,18 @@ Interdisciplinary Collaboration
 ## Projects
 
 <details>
+<summary><strong>Disability Recovery Insights – Predictive Modeling</strong></summary>
+<br>
+A predictive model that identifies patients functional recovery based on clinical and social indicators. Integrating Social Determinants of Health (SDOH) to enhance accuracy and improve personalized care strategies.
+</details>
+
+<details>
+<summary><strong>Disability Recovery Insights – Web-Based Health Companion</strong></summary>
+<br>
+Designing a personalized, web-based tool for patients to manage Activities Of Daily Living and receive tailored support. Interface development to ensure accessibility and real-time interaction for individuals with disabilities.
+</details>
+
+<details>
 <summary><strong> Predictive Modeling of Antidepressant Response Using All Of Us</strong></summary>
 <br>
 Designed and implemented LASSO and logistic regression models using the All of Us research database to predict antidepressant efficacy across diverse populations. Analyzed patient history and clinical notes to identify key predictors, improving response accuracy and supporting data-driven treatment decisions.
@@ -71,7 +83,7 @@ Led a prospective clinical study evaluating Remdesivir’s real-world effectiven
 ## 🏥 Professional Experience
 
 **Practicum Intern** – *The Resource Key (Current)*  
-- Contributing to the development of **Disability Recovery Insights**, a predictive model that classifies patients on functional recovery based on clinical and social indicators.  
+- Contributing to the development of **Disability Recovery Insights**, a predictive model that identifies patients functional recovery based on clinical and social indicators.  
 - Integrating Social Determinants of Health (SDOH) to enhance model accuracy and provide more personalized insights.  
 - Development of a web-based health companion that allows patients and caregivers to track recovery progress, receive tailored support, and plan next steps.   
 - Supporting interface design to ensure real-time accessibility features and a user-friendly experience for individuals with disabilities.
