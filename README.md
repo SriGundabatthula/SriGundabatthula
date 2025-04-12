@@ -34,12 +34,6 @@ A Health Informatics graduate student at George Mason University with a backgrou
   <code style="background-color:#f0f0f0; color:#8b0000;">EHR Systems</code>
 </p>
 
-**Languages & Tools**  
-`Python` • `R` • `SQL` • `MATLAB` • `Tableau` • `Jupyter` • `Power BI`
-
-**Healthcare Standards**  
-`HL7` • `FHIR` • `SNOMED CT` • `LOINC` • `EHR Systems`
-
 **Key Strengths**  
 Predictive Modeling & Machine Learning
 Clinical Decision Support Systems (CDSS)
