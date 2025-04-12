@@ -35,14 +35,14 @@ A Health Informatics graduate student at George Mason University with a backgrou
 </p>
 
 **Key Strengths**  
-Predictive Modeling & Machine Learning
-Clinical Decision Support Systems (CDSS)
-EHR Data & Health Analytics
-MLOps & Scalable ML Solutions
-Radiology Informatics
-Therapeutic Drug Monitoring
-Pharmacovigilance & Drug Utilization Reviews
-Interdisciplinary Collaboration
+- Predictive Modeling & Machine Learning
+- Clinical Decision Support Systems (CDSS)
+- EHR Data & Health Analytics
+- MLOps & Scalable ML Solutions
+- Radiology Informatics
+- Therapeutic Drug Monitoring
+- Pharmacovigilance & Drug Utilization Reviews
+- Interdisciplinary Collaboration
 
 ---
 
