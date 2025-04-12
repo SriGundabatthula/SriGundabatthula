@@ -77,9 +77,10 @@ I'm always eager to explore meaningful projects and research opportunities in di
   <a href="https://www.linkedin.com/in/sri-lakshmi-durga-gundabatthula-713255289" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gdurga762@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:gdurga762@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 ---
 
 > * Merging data science with healthcare to drive smarter outcomes.*
