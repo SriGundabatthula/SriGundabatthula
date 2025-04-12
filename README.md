@@ -70,7 +70,7 @@ Led a prospective clinical study evaluating Remdesivir’s real-world effectiven
 
 ## 🏥 Professional Experience
 
-**Practicum Intern** – *The Resource Key (Remote, 2025)*  
+**Practicum Intern** – *The Resource Key (Current)*  
 - Contributing to the development of **Disability Recovery Insights**, a predictive model that classifies patients on functional recovery based on clinical and social indicators.  
 - Integrating Social Determinants of Health (SDOH) to enhance model accuracy and provide more personalized insights.  
 - Development of a web-based health companion that allows patients and caregivers to track recovery progress, receive tailored support, and plan next steps.   
