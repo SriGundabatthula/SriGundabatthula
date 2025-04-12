@@ -16,13 +16,13 @@ A Health Informatics graduate student at George Mason University with a backgrou
 
 <h3> Technical Skills</h3>
 <p>
-  <code style="background-color:#f0f0f0; color:#005f73;">Python</code> •
-  <code style="background-color:#f0f0f0; color:#005f73;">R</code> •
-  <code style="background-color:#f0f0f0; color:#005f73;">SQL</code> •
-  <code style="background-color:#f0f0f0; color:#005f73;">MATLAB</code> •
-  <code style="background-color:#f0f0f0; color:#005f73;">Tableau</code> •
-  <code style="background-color:#f0f0f0; color:#005f73;">Jupyter</code> •
-  <code style="background-color:#f0f0f0; color:#005f73;">Power BI</code>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 </p>
 
 <h4> Healthcare Standards</h4>
